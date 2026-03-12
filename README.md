@@ -36,7 +36,5 @@ This repository contains a Power BI dashboard designed to analyze and visualize 
 
 Feedback and suggestions are always welcome! Feel free to open an issue or submit a pull request if you have ideas on how to improve the data model, DAX measures, or visualizations.
 
-## 📄 License
 
-[Insert License Type, e.g., MIT License]
 
