@@ -25,11 +25,6 @@ This repository contains a Power BI dashboard designed to analyze and visualize 
 3. **Open the File:** Double-click the `.pbix` file to open the report in Power BI Desktop.
 4. **Explore:** Use the built-in slicers and click on different chart elements to interactively cross-filter the data.
 
-## 📸 Dashboard Snapshot
-
-_(Note: Replace `dashboard-screenshot.png` with the actual image file of your dashboard)_
-
-![Student Performance Dashboard Screenshot](student performance.png)
 
 ## 💡 Key Insights
 
@@ -44,3 +39,4 @@ Feedback and suggestions are always welcome! Feel free to open an issue or submi
 ## 📄 License
 
 [Insert License Type, e.g., MIT License]
+
