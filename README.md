@@ -16,7 +16,7 @@ This repository contains a Power BI dashboard designed to analyze and visualize 
 
 - **Power BI Desktop:** Used for data modeling, DAX measure creation, and overall report visualization.
 - [cite_start]**Theming:** The dashboard utilizes the built-in "Frontier" theme [cite: 32][cite_start], which operates on top of the base theme "CY25SU12" [cite: 25, 26] for a cohesive and professional design.
-- **[Insert Data Source]:** (e.g., Excel spreadsheets, SQL Database, Kaggle CSV) used as the primary data repository.
+
 
 ## 🚀 How to Use This Dashboard
 
@@ -26,15 +26,6 @@ This repository contains a Power BI dashboard designed to analyze and visualize 
 4. **Explore:** Use the built-in slicers and click on different chart elements to interactively cross-filter the data.
 
 
-## 💡 Key Insights
-
-- **[Insight 1]:** e.g., "Math scores showed a 12% improvement in the spring semester following the introduction of the new tutoring program."
-- **[Insight 2]:** e.g., "Attendance rate has a strong positive correlation with final grades across all senior classes."
-- **[Insight 3]:** e.g., "The Science department holds the highest overall pass rate at 88%."
-
 ## 🤝 Contributing
 
 Feedback and suggestions are always welcome! Feel free to open an issue or submit a pull request if you have ideas on how to improve the data model, DAX measures, or visualizations.
-
-
-
